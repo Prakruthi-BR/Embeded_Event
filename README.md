@@ -42,4 +42,4 @@ An actuator compares the output given by the D-A Converter to the actual output 
 
 cppcheck|Codacy| 
 ------|--------|
-[![cppcheck-action](https://github.com/Prakruthi-BR/Embeded_Event/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prakruthi-BR/Embeded_Event/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/11e682eee1ca464bbfc6457dd538047a)](https://www.codacy.com/gh/AshwinG21/Embeded_Activity/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AshwinG21/Embeded_Activity&amp;utm_campaign=Badge_Grade)
+[![cppcheck-action](https://github.com/Prakruthi-BR/Embeded_Event/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prakruthi-BR/Embeded_Event/actions/workflows/cppcheck.yml) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f70af56b44924be4b2e8bc38a6c6face)](https://www.codacy.com/gh/Prakruthi-BR/Embeded_Event/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Prakruthi-BR/Embeded_Event&amp;utm_campaign=Badge_Grade)
